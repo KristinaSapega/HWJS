@@ -1,4 +1,3 @@
-
 //1
 const password = `Qwerty12345`;
 const userInput = prompt (`Введите пароль`);
@@ -172,4 +171,5 @@ if (clientDeviceYear >= 2015) {
 } else {
   console.log('Не удалось определить операционную систему устройства');
 }
+
 
